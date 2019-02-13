@@ -1,5 +1,6 @@
 # AbsorptionTMM
 We intend to use the transfer matrix representation to calculate the local absorbed energy density as a function of space. 
+This way multiple reflections and interferance in thin films, different incident angles and polarizations, s & p, are considered.
 The description of the formulas and the way we are implementing them can be found here: [Description](https://github.com/udcm-su/AbsorptionTMM/blob/master/Transfermatrix_Description.pdf)
 
   --- 
