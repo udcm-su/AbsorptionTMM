@@ -17,7 +17,7 @@ The [TMM_abs.py](https://github.com/udcm-su/AbsorptionTMM/blob/master/TMM_abs.py
 
 
   
-  <img src="https://github.com/udcm-su/AbsorptionTMM/blob/master/5Layer.png" width="620" height="500" />
+  <img src="https://github.com/udcm-su/AbsorptionTMM/blob/master/LayerPic.png" width="620" height="500" />
 
 
 
