@@ -23,3 +23,9 @@ As absorption has units (power/volume), the profile in the plot, which has been 
 
 The angle is given from the surface normal. (0° is perpendicular and 90° is grazing). 
 
+
+### Reference
+[Steven J. Byrnes. Multilayer optical calculations. arXiv:1603.02720v3, 2018.
+](https://arxiv.org/abs/1603.02720)
+
+
